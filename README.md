@@ -21,9 +21,13 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 
 
 ## Projetos em PowerBI:
-![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+* [Análise de Dados Financeiros](Dashboard_Financeira.jpg)
+* [Análise de Dados Logísticos](https://abrir.link/qHRtB)
+* [Análise de Dados Comerciais](https://abrir.link/qHRtB)
+* [Análise de Dados de Recursos Humanos](https://abrir.link/qHRtB)
+* [Análise de Dados de Marketing](https://abrir.link/qHRtB)
+* [Análise de Dados de Vendas](https://abrir.link/qHRtB)
 
-* [Indian Unicorn startups](https://abrir.link/qHRtB)
 
 R:
 * [Prevendo o Consumo de Energia de Carros Elétricos](https://shre.ink/2drL)
