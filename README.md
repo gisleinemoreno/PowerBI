@@ -14,14 +14,15 @@ Atuei como gestora da área de tecnologia da informação e comunicação, com h
 
 Sou formada em sistemas de informação, com especialidade em Business Inteligence com Big Data na Faculdade Impacta, além de possuir MBA em Inteligência artificial com Data Analytics no ICMC.
 
-**Background in:** Python, R, Machine Learning, Data Analytics.
+**Background in:** PowerBI, Data Analytics, Python, R, Machine Learning.
 
 **Links:**
-* [LinkedIn](linkedin.com/in/gisleinemoreno)
+* [LinkedIn](https://www.linkedin.com/in/gisleinemoreno)
 
 
-## Projetos:
-Python:
+## Projetos em PowerBI:
+![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
+
 * [Indian Unicorn startups](https://abrir.link/qHRtB)
 
 R:
