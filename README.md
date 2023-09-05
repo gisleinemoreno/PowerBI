@@ -28,4 +28,5 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 * [Análise de Dados de Recursos Humanos](Dashboard_RH.jpg)
 * [Análise de Dados de Marketing](Dashboard_Marketing.jpg)
 * [Análise de Dados de Vendas](Dashboard_Vendas.jpg)
-  (Os dados utilizados para produzir os Dashboards, são dados acadêmicos fornecidos pela DSA Academy.
+
+(obs.: Os dados utilizados para produzir os Dashboards, são dados acadêmicos fornecidos pela DSA Academy.
