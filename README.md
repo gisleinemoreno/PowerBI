@@ -22,8 +22,8 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 
 ## Projetos em PowerBI:
 * [Análise de Dados Financeiros](Dashboard_Financeira.jpg)
-* [Análise de Dados Logísticos](https://abrir.link/qHRtB)
-* [Análise de Dados Comerciais](https://abrir.link/qHRtB)
+* [Análise de Dados Logísticos](Dashboard_Logística.jpg)
+* [Análise de Dados Comerciais](Dashboard_Comercial.pbit)
 * [Análise de Dados de Recursos Humanos](https://abrir.link/qHRtB)
 * [Análise de Dados de Marketing](https://abrir.link/qHRtB)
 * [Análise de Dados de Vendas](https://abrir.link/qHRtB)
