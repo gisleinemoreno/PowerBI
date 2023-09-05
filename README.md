@@ -24,8 +24,8 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 * [Análise de Dados Financeiros](Dashboard_Financeira.jpg)
 * [Análise de Dados Logísticos](Dashboard_Logística.jpg)
 * [Análise de Dados Comerciais](Dashboard_Comercial.pbit)
-* [Análise de Dados de Recursos Humanos](https://abrir.link/qHRtB)
-* [Análise de Dados de Marketing](https://abrir.link/qHRtB)
+* [Análise de Dados de Recursos Humanos](Dashboard_RH.jpg)
+* [Análise de Dados de Marketing](Dashboard_Marketing.jpg)
 * [Análise de Dados de Vendas](https://abrir.link/qHRtB)
 
 
